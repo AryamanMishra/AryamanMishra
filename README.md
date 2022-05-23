@@ -1,6 +1,6 @@
 # Hi :octocat: I am Aryaman Mishra
 
-- I like to work on various languages and technologies, alongside contributing to some open source projects like https://github.com/AryamanMishra/LeetCode-in-Java.
+- I like to work on various languages and technologies, alongside contributing to some open source projects like https://github.com/javadev/LeetCode-in-Java
 - 💬 Ask me about **Data Structures and Algorithms, Problem Solving, Backend Web Development, SQL and Non SQL based databases.**
 - Some of my best repositories are :- https://github.com/AryamanMishra/mini_dbms_project
 
