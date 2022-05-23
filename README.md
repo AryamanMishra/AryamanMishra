@@ -7,22 +7,23 @@
   https://github.com/AryamanMishra/PyBot-Discord
 - 📫 Reach me at **aryamanmishra99@gmail.com**
 - I live in India 🇮🇳
-- Thanks for visiting 😄.
+- Thanks for visiting 😄. Have a good day.
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/aryaman-mishra-576527190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaman Mishra" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/aryaman-mishra-576527190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaman Mishra" height="40" width="40" /></a> 
 <a href="https://www.codechef.com/users/devilamgs" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="devilamgs" height="40" width="40" /></a>
 <a href="https://leetcode.com/modest_aryaman09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aryaman Mishra" height="40" width="40" /></a>
 <a href="https://www.stopstalk.com/user/profile/modest_aryaman09/" target="blank"><img align="center" src="stopstalk-logo.png" alt="Aryaman Mishra" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I have worked on:</h3>
 <p align="left"> 
   <ul>
     <li>Java</li>
+    <li>Python</li>
     <li>HTML, CSS, Javascript, Node JS</li>
-    <li>Express JS, Mongoose, MongoDB</li>
+    <li>Express JS, Mongoose, MongoDB,EJS</li>
     <li> SQL, PostgreSQL </li>
     <li>VSCode, Postman</li>
   </ul>
