@@ -7,7 +7,7 @@
   https://github.com/AryamanMishra/PyBot-Discord
 - 📫 Reach me at **aryamanmishra99@gmail.com**
 - I live in India 🇮🇳
-- Thanks for visiting 😄. Have a good day.
+- Thanks for visiting 😄. Have a good day. Namaste
 
 <h3 align="left">Find me on:</h3>
 <p align="left">
