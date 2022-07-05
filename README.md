@@ -13,7 +13,6 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/aryaman-mishra-576527190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryaman Mishra" height="36" width="36" />
 </a> 
-
 <a href="https://auth.geeksforgeeks.org/user/modest_aryaman09/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/geeksforgeeks.svg" alt="Aryaman Mishra" height="55" width="52" />
 </a>
 <a href="https://leetcode.com/modest_aryaman09/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aryaman Mishra" height="40" width="40" />
