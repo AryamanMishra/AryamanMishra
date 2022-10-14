@@ -26,6 +26,7 @@
   <ul>
     <li>Java</li>
     <li>Python</li>
+    <li>Shell Scripting</li>
     <li>HTML, CSS, Javascript, Node JS</li>
     <li>Express JS, Mongoose, MongoDB,EJS</li>
     <li> SQL, PostgreSQL </li>
