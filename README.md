@@ -1,9 +1,9 @@
 # Hi :octocat: I am Aryaman Mishra
 
-- I am a passionate,beginner React Native Android developer and frequently work on full stack web developement too. I am a Data Engineer py profession currently working in Quantiphi Analytics.
+- I am a passionate,beginner React Native Android developer and frequently work on full stack web developement too. I am a Data Engineer by profession currently working in Quantiphi Analytics.
 - I like to work on various languages and technologies, alongside contributing to some open source projects like https://github.com/javadev/LeetCode-in-Java
 - I am always keen to learn new tech stacks and software engeenering tools. Also I am quite active on Problem Solving portals like Leetcode GFG, etc
-- 📫 Reach me at **aryamanmishra99@gmail.com**
+- 📫 Reach me at **aryaman.m09@gmail.com**
 - I live in India 🇮🇳
 - Thanks for visiting 😄. Have a good day.
 
